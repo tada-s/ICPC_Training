@@ -1,0 +1,13 @@
+**/*.cbp
+**/*.depend
+**/*.layout
+**/*.exe
+**/*.o
+**/*.class
+**/.netbeans_*
+**/*.properties
+**/*.mf
+**/*.form
+**/*.jar
+**/*.xml
+

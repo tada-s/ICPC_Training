@@ -1,0 +1,57 @@
+3 2
+McBride, John
+Smith, Peter
+Brown, Anna
+Brown, Anna
+Smith, Peter
+Smith, Peter
+Brown, Anna
+3 2
+McBride, John
+Smith, Peter
+Brown, Anna
+Brown, Anna
+Smith, Peter
+McBride, John
+Smith, Peter
+0 0
+3 3
+a
+b
+c
+a
+b
+b
+c
+c
+a
+8 10
+a
+b
+c
+d
+e
+f
+g
+h
+a
+b
+a
+e
+b
+f
+b
+c
+c
+a
+c
+d
+d
+e
+d
+f
+f
+h
+g
+e
+0 0
