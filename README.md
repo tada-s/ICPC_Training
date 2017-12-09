@@ -1,6 +1,6 @@
 # OnlineJudge
 
-For ICPC training.
+Solved problems of some important Online Judge for ICPC training.
 
 CF - Codeforces
 LA - Live Archive (UVa)
